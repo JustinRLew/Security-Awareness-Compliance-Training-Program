@@ -1,7 +1,7 @@
 # Security Awareness & Compliance Training Program
 
 ## Overview
-This Security Awareness & Compliance Training Program is designed to educate employees on best practices for cybersecurity, compliance regulations, and risk mitigation. The goal is to improve organizational security by reducing human-related security risks and ensuring compliance with industry standards like GDPR, HIPAA, and PCI-DSS.
+This Security Awareness & Compliance Training Program is designed to educate employees on best practices for cybersecurity, compliance regulations, and risk mitigation. The goal is to improve organizational security by reducing human-related security risks and compliance with industry standards like GDPR, HIPAA, and PCI-DSS.
 
 ## Objectives
 - Increase employee awareness of cybersecurity threats.
@@ -12,32 +12,32 @@ This Security Awareness & Compliance Training Program is designed to educate emp
 ## Training Modules
 This program consists of five key training modules:
 
-### 1️⃣ Introduction to Cybersecurity
+### 1. Introduction to Cybersecurity
 - Understanding cybersecurity and its importance.
 - Common cyber threats: phishing, ransomware, and social engineering.
 - Case study: How a CEO got hacked via email.
 - **Assessment:** 5 multiple-choice questions.
 
-### 2️⃣ Phishing & Social Engineering Awareness
+### 2. Phishing & Social Engineering Awareness
 - What is phishing? (Real-world phishing email examples)
 - How to identify phishing attempts.
 - Social engineering tactics and mitigation strategies.
 - **Hands-On Activity:** Simulated phishing emails to test employee awareness.
 - **Assessment:** Short quiz on recognizing phishing attempts.
 
-### 3️⃣ Password Security & Multi-Factor Authentication (MFA)
+### 3. Password Security & Multi-Factor Authentication (MFA)
 - The dangers of weak passwords.
 - Best practices for creating strong passwords.
 - How MFA prevents unauthorized access.
 - **Activity:** Employees update work passwords to meet security standards.
 
-### 4️⃣ Data Privacy & Compliance
+### 4. Data Privacy & Compliance
 - Overview of GDPR, HIPAA, and PCI-DSS compliance.
 - Secure handling of sensitive data.
 - How to report a data breach.
 - **Scenario-Based Training:** Role-playing a security incident report.
 
-### 5️⃣ Secure Remote Work & Device Security
+### 5. Secure Remote Work & Device Security
 - Risks of public Wi-Fi and best practices for secure connections.
 - Securing laptops, mobile devices, and cloud storage.
 - Safe email and USB usage.
